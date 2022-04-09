@@ -6,3 +6,5 @@ This project presented some fun challenges. I was not provided detailed informat
 Regarding target values, the only information provided was that in-game ads were to be displayed where users selected the type of structure to build in the game. As such, I explored frequency of “building” events as well as how many days users spent on the game app. I used my findings to separate the users into groups which performed better or worse. I tested and confirmed the statistical significance of differences in performance between the various user groups.
 
 In the end, the most important factor was cost per user (based on four advertisement sources used to obtain new users). I explored differences in user performance between each source as well, but the source did not have much effect on user activity.
+
+This repository includes the Jupiter Notebook file along with the cvs data files used and a final visual presentation outlining my findings.
